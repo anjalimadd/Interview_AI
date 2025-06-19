@@ -47,7 +47,7 @@ export const HeroClient = ({ user }: HeroClientProps) => {
 
           <a
             rel="noreferrer noopener"
-            href="https://github.com/anjalimadd"
+            href="https://github.com/anjalimadd/Interview_AI"
             target="_blank"
             className={`w-full md:w-1/3 ${buttonVariants({ variant: "outline" })}`}
           >
